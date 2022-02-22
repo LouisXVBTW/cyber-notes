@@ -41,3 +41,9 @@ meterpreter > run post/windows/gather/hashdump
 - [Windows Privilege Escalation](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjW473VlpfvAhWTs3EKHWDSApQQjBAwA3oECAcQAQ&url=https%3A%2F%2Fgithub.com%2Fswisskyrepo%2FPayloadsAllTheThings%2Fblob%2Fmaster%2FMethodology%2520and%2520Resources%2FWindows%2520-%2520Privilege%2520Escalation.md&usg=AOvVaw1w6PB_9_YBPlO5rhvgT2jd)
 
 > Sticky notes
+
+- Shells
+    
+    > PayloadsAllTheThings
+    
+    - [Reverse Shell Cheat Sheet](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md)
