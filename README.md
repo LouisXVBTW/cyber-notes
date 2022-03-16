@@ -6,7 +6,8 @@
 ### Scans
 
 ⇒ nmap -sCV -aN output -vvv ip
-⇒ nmap -sC -sV -aO nmap/name ip
+
+⇒ nmap -sC -sV -oA nmap/name ip
 
 #### Scripts
 
