@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Placeholder
 =======
 # Notes
@@ -7,6 +6,7 @@
 ### Scans
 
 ⇒ nmap -sCV -aN output -vvv ip
+⇒ nmap -sC -sV -aO nmap/name ip
 
 #### Scripts
 
@@ -30,6 +30,7 @@ meterpreter > run post/windows/gather/hashdump
 [https://gtfobins.github.io](https://gtfobins.github.io/)
 
 > PayloadsAllTheThings
+> Linpeas
 
 - [Linux -Privilege Escalation](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjW473VlpfvAhWTs3EKHWDSApQQjBAwBHoECAgQAQ&url=https%3A%2F%2Fgithub.com%2Fswisskyrepo%2FPayloadsAllTheThings%2Fblob%2Fmaster%2FMethodology%2520and%2520Resources%2FLinux%2520-%2520Privilege%2520Escalation.md&usg=AOvVaw3P5Nno5p3hSufep4msf_KQ)
 
@@ -50,4 +51,3 @@ meterpreter > run post/windows/gather/hashdump
     > PayloadsAllTheThings
     
     - [Reverse Shell Cheat Sheet](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md)
->>>>>>> 0e4f0372f47e0c0adbf68c8f8b8c5af80f844487
