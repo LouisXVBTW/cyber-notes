@@ -1,7 +1,7 @@
 # Placeholder
 =======
 # Notes
-(Can't find all my old notes, rip)
+ps -ef --forest
 ## nmap
 ### Scans
 
